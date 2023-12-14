@@ -1,0 +1,2 @@
+when to change wifi please check your ipaddress
+json-server --watch db.json --host 192.168.1.15

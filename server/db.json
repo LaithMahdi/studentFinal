@@ -1,0 +1,32 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "full name": "gggggggg",
+      "date of birth": "30/01/2000",
+      "place of birth": "Kairouan",
+      "phone number": 55555555,
+      "notes": {
+        "math": 5,
+        "science": 5,
+        "history": 5
+      },
+      "picture": "/data/user/0/com.example.student/cache/ee4ad6c9-7369-484a-b4cc-a01ef1a611248634675453926917274.jpg",
+      "group": "DSI 32"
+    },
+    {
+      "id": 2,
+      "full name": "gggggggg",
+      "date of birth": "30/07/2000",
+      "place of birth": "Kairouan",
+      "phone number": 55555555,
+      "notes": {
+        "math": 5,
+        "science": 5,
+        "history": 5
+      },
+      "picture": "/data/user/0/com.example.student/cache/70010dad-5ed3-4a8b-b7e3-08a914e66ed31754368532628781841.jpg",
+      "group": "DSI 31"
+    }
+  ]
+}
